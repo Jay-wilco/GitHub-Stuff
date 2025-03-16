@@ -5,3 +5,4 @@ README FOR GITHUB TASK
 - made commits in remote repository, again.
 
 - testing if merge appears
+  git p
