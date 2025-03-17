@@ -24,4 +24,6 @@ Merge with strategy ort failed.
 
 how to avoid this? NEVER MAKE COMMITS IN REMOTE! :)
 
-changed branch to test_branch with git checkout -b test_branch
+changed branch to "test_branch" with git checkout -b test_branch
+
+for practice, changed the branch to "main"
