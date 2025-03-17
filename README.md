@@ -23,3 +23,5 @@ Merge with strategy ort failed.
 - > file updated with remote data
 
 how to avoid this? NEVER MAKE COMMITS IN REMOTE! :)
+
+changed branch to test_branch with git checkout -b test_branch
