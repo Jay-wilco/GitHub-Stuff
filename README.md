@@ -23,3 +23,5 @@ Merge with strategy ort failed.
 - > file updated with remote data
 
 how to avoid this? NEVER MAKE COMMITS IN REMOTE! :)
+
+switched to master branch and making some changes here???
