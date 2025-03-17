@@ -32,3 +32,4 @@ got an error message: ! [rejected] main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/Jay-wilco/GitHub-Stuff.git'
 If you want to integrate the remote changes, use
 hint: 'git pull' before pushing again.
+
