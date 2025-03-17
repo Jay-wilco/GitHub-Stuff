@@ -22,6 +22,14 @@ Merge with strategy ort failed.
 - add . and commit changes in local and pulled again.
 - > file updated with remote data
 
-how to avoid this? NEVER MAKE COMMITS IN REMOTE! :)
+how to avoid this? NEVER MAKE COMMITS IN REMOTE! :
 
-switched to master branch and making some changes here???
+changed branch to "test_branch" with git checkout -b test_branch
+
+for practice, changed the branch to "main"
+
+got an error message: ! [rejected] main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Jay-wilco/GitHub-Stuff.git'
+If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+
